@@ -15,8 +15,8 @@ title = "Jibin Rajan Varghese"
 [params.author]
   name = "Jibin Rajan Varghese"
   image = "img/me.jpg"
-  headline = "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and hyperscale cloud infrastructure!"
-  bio = "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and hyperscale cloud infrastructure!"
+  headline = "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure!"
+  bio = "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure!"
   links = [
     { linkedin = "https://linkedin.com/in/jibinrajan" },
     { github = "https://github.com/codeJRV" },
