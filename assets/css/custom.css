@@ -1,0 +1,24 @@
+.company {
+    margin-bottom: 10px;
+  }
+  .company-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  .logo {
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+    object-fit: cover;
+    border-radius: 10%;
+  }
+  .company-info {
+    margin: 0;
+    font-size: 0.9em;
+    display: inline;
+  }
+  .company-info p {
+    margin: 5px 0 0;
+  }
+

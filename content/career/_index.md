@@ -58,11 +58,13 @@ Achieved 4x performance improvements by optimizing multi-threaded C++ code of th
 
 ## <div class="company-header"><img src="bajaj.png" alt="Bajaj Auto Ltd" class="logo"><div class="company-info">Bajaj Auto - Industrial Robotics & AI<div class="company-info"><p>Jul 2014 - Jun 2016</p></div></div></div>
 Part of team of 12 at the [world's largest 3 wheeler automaker](https://en.wikipedia.org/wiki/Bajaj_Auto#cite_note-4), handling the **entire end-to-end automation** effort within Bajaj Auto's manufacturing sector. Introduced Sync-Slide robot, a collaborative robotic bolt tightening system with image processing, force feedback and
-selective compliance. Featured by Universal Robotics as a [flagship project worldwide](https://www.universal-robots.com/case-stories/bajaj-auto/) case study in women empowerment. Also developed an in-house IOT based real-time assembly line monitoring and predictive analysis system with 1000+ data points/sec from 5000 sensors.
+selective compliance. 
+
+Sync Slide was featured by Universal Robotics as a [flagship project worldwide](https://www.universal-robots.com/case-stories/bajaj-auto/) and a case study in women empowerment. Also developed an in-house IOT based real-time assembly line monitoring and predictive analysis system with 1000+ data points/sec from 5000 sensors.
 
 ## <div class="company-header"><img src="iisc.png" alt="Indian Institue of Science" class="logo"><div class="company-info">Indian Institute of Science - Swarm Intelligence<div class="company-info"><p>May 2013 - Jul 2013</p></div></div></div>
 Working with Prof. [Debashish Ghose](https://scholar.google.co.in/citations?user=BUfKuTYAAAAJ&hl=en) I developed algorithms for Path Planning for Quadcopters to Survey Damaged Building Area. The relevance of this project has had a deeper impact on me, following the 2013 Kedarnath floods.
-These algorithms enable disaster response teams could rapidly deploy a team of various autonomous quadcopters, over the disaster scenario to identify and locate survivors within the first few hours of the disaster, so that rescue teams could directly 'approach' the location of the trapped survivors, without having to spend valuable time and effort searching for them. 
+These algorithms enable disaster response teams to rapidly deploy a team of various autonomous quadcopters over the disaster scenario to identify and locate survivors within the first few hours of the disaster, so that rescue teams could directly 'approach' the location of the trapped survivors, without having to spend valuable time and effort searching for them.
 [My work](https://www.oreilly.com/library/view/unmanned-aerial-systems/9780128202777/?_gl=1*pakr31*_ga*MTEyNDE3NDcxNS4xNzI0NTYzOTE2*_ga_092EL089CH*MTcyNDU2MzkxNi4xLjAuMTcyNDU2MzkxOS41Ny4wLjA.) lays down the foundation strategies and mathematical algorithms to achieve this end.
 
 ## <div class="company-header"><img src="rig.png" alt="Robotics Interest Group" class="logo"><div class="company-info">Robotics Interest Group - Co-Founder<div class="company-info"><p>Oct 2011 - present</p></div></div></div>
@@ -72,30 +74,6 @@ Robotics Interest Group is presently Kerala's most advanced academic robotics gr
 
 
 <style>
-  .company {
-    margin-bottom: 30px;
-  }
-  .company-header {
-    display: flex;
-    align-items: center;
-    margin-bottom: 10px;
-  }
-  .logo {
-    width: 60px;
-    height: 60px;
-    margin-right: 15px;
-    object-fit: cover;
-    border-radius: 10%;
-  }
-  .company-info {
-    margin: 0;
-    font-size: 0.9em;
-    display: inline;
-  }
-  .company-info p {
-    margin: 5px 0 0;
-  }
-
 table {
   border-collapse: collapse;
 }
@@ -113,5 +91,4 @@ tr:last-child {
   border: none
   height: 33px;
 }
-
 </style>
