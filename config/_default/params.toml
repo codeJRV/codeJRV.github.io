@@ -25,8 +25,8 @@ fingerprintAlgorithm = "sha256"
 
 [footer]
   showCopyright = true
-  showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showThemeAttribution = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -38,27 +38,26 @@ fingerprintAlgorithm = "sha256"
   showDate = true
   showDateUpdated = false
   showAuthor = true
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showDraftLabel = true
   showEdit = false
-  # editURL = "https://github.com/username/repo/"
-  editAppendPath = true
+  editAppendPath = false
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false
-  # sharingLinks = ["linkedin", "x-twitter", "facebook", "reddit",  "email"]
+  sharingLinks = ["linkedin", "x-twitter", "facebook", "reddit",  "email"]
 
 [list]
-  showBreadcrumbs = false
+  showBreadcrumbs = true
   showSummary = false
   showTableOfContents = true
   showTaxonomies = false
-  groupByYear = true
+  groupByYear = false
   paginationWidth = 1
 
 [sitemap]

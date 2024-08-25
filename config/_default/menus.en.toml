@@ -14,6 +14,7 @@
   name = "Career"
   pageRef = "career"
   weight = 10
+  layout = "page"
 
 [[main]]
   name = "Research"
@@ -21,13 +22,13 @@
   weight = 20
 
 [[main]]
-  name = "Writing"
-  pageRef = "posts"
+  name = "Projects"
+  pageRef = "projects"
   weight = 30
 
 [[main]]
-  name = "Projects"
-  pageRef = "projects"
+  name = "Writing"
+  pageRef = "writing"
   weight = 40
 
 [[main]]

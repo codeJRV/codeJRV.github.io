@@ -1,6 +1,15 @@
 ---
 title: "Career"
 description: "My journey in AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure!"
+
+cascade:
+  showEdit: false
+  showSummary: false
+  showDate: false
+  showAuthor: false
+  invertPagination: false
+  showReadingTime: false
+  sharingLinks: false
 ---
 
 <div style="text-align: justify">
@@ -71,24 +80,3 @@ These algorithms enable disaster response teams to rapidly deploy a team of vari
 Co-Founded [Robotics Interest Group](https://nitc.ac.in/clubs-and-associations/the-robotics-interest-group-rig), the first academic undergraduate research body in National Institute of Technology - Calicut.
 Led the development and integration of an indigenous 5 DOF mobile manipulator, Speech Recognition based Interactive Robot, High Voltage Transmission Line Inspection Robot and Bio-mimetic simulations.
 Robotics Interest Group is presently Kerala's most advanced academic robotics group. Presently serving as the honorary member and advisor to the team.
-
-
-<style>
-table {
-  border-collapse: collapse;
-}
-td {
-  border: none;
-  padding: 10px;
-  text-align: center;
-  vertical-align: top;
-}
-tr:first-child {
-  height: 100px;
-  border: none
-}
-tr:last-child {
-  border: none
-  height: 33px;
-}
-</style>

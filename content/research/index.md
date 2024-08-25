@@ -1,6 +1,15 @@
 ---
 title: "Research"
 description: "My journey in AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure!"
+
+cascade:
+  showEdit: false
+  showSummary: false
+  showDate: false
+  showAuthor: false
+  invertPagination: false
+  showReadingTime: false
+  sharingLinks: false
 ---
 
 
