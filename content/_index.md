@@ -1,6 +1,6 @@
 ---
 title: "Jibin Rajan Varghese"
-description: "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure!"
+description: "Shaping the future of AI Safety, Gen-AI, Unmanned Systems, and Hyperscale Cloud Infrastructure! All views expressed are my own, and do not represent those of my past, current, or future employers."
 ---
 {{< lead >}}
 Industry specialist in AI Security, generative AI, hyperscale computing, and applications in unmanned systems.
